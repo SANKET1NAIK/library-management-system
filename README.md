@@ -1,1 +1,1 @@
-# library-management-system
+The Library Management System In Python is a simple project developed using Python. The project contains only the admin side. The admin side manages all the management like adding and managing categories, authors, books, issued books, and so on. 
